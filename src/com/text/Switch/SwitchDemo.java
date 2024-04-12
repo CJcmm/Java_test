@@ -14,7 +14,7 @@ public class SwitchDemo {
             case "周五":
             case "周六":
             case "周日":
-                System.out.println("吃寿司");
+                System.out.println("吃火锅");
                 break;
         }
     }
